@@ -3,6 +3,7 @@ body{
     padding: 0;
 }
 
-.header{
-    width: 100%;
+img{
+    max-width: 100%;
+    margin: 0;
 }
